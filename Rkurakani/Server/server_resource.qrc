@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/start">
+        <file>img/PngItem_2854427.png</file>
+        <file>img/stop-button.png</file>
+    </qresource>
+</RCC>
